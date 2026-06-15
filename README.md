@@ -35,12 +35,48 @@ I build full-stack applications, with a research focus on numerical reproducibil
 * AI-Powered Web Applications
 * Scientific Computing / Numerical Methods
 
-**Select Projects:**
+---
 
-* **Grocera** – AI-powered meal planning app generating personalized recipes and grocery lists (React, Flask, Gemini API).
-* **Reproducible Walk on Spheres in Julia** – Research project achieving bit-identical Monte Carlo output across C++ and Julia.
-* **Beaver Bash** – Whac-A-Mole style browser game inspired by Chrome's Dino Game (React).
+## 🚀 Projects Work
+ 
+**Grocera — AI-Powered Meal Planning App**
+ 
+A web application that generates personalized recipes and grocery lists using AI, designed to simplify meal planning and reduce food waste.
+ 
+Core capabilities include:
+- AI-generated recipe suggestions via the Gemini API • automated grocery list creation • email notifications via Resend • input validation and error handling on the backend
+**Stack** React · TypeScript · Flask · Python · Gemini API · Render · Vercel · Resend
 
+**Live Website** https://shopgrocera.vercel.app
+ 
+**Repository** https://github.com/mRubayet12/grocera
+ 
+---
+ 
+**Reproducible Walk on Spheres in Julia — Numerical Reproducibility Research**
+ 
+A research project investigating whether the Walk on Spheres Monte Carlo algorithm can produce bit-identical results across C++ and Julia implementations.
+ 
+Core capabilities include:
+- cross-language porting of the WoS algorithm • RNG behavior matching between C++ and Julia • floating-point divergence analysis • identification of a `length()` formulation achieving bit-identical output
+**Stack** Julia · C++
+ 
+**Repository** https://github.com/mRubayet12/Reproducible-Walk-on-Spheres-in-Julia
+ 
+---
+ 
+**Beaver Bash — Browser Game**
+ 
+A Whac-A-Mole style browser game inspired by Chrome's Dino Game, built to practice responsive React gameplay logic.
+ 
+Core capabilities include:
+- keyboard event-driven gameplay • custom graphics and animations • responsive design • public deployment on Vercel
+**Stack** React · JavaScript (JSX)
+
+**Live Website** https://beaver-bash.vercel.app/
+ 
+**Repository** https://github.com/mRubayet12/Beaver-Bash
+ 
 ---
 
 ### 🧩 Note on Background
