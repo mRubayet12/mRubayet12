@@ -21,53 +21,66 @@
 
 ---
 
-### 🧑‍💻 About Me
+I build full-stack applications and explore systems-level computing, with a research focus on numerical reproducibility in stochastic simulations. My work spans AI-integrated web apps, algorithm porting across languages, and getting floating-point arithmetic to behave the same way twice.
 
-- 🔬 Undergraduate Researcher under **Prof. Michael Mascagni**, investigating reproducibility in stochastic simulations (Walk on Spheres Monte Carlo method)
-- 🧮 Learning Assistant for **Discrete Mathematics I** and **Intro to Programming** at FSU
-- 🏈⚽ Intramural Sports Official (Flag Football & Soccer) at FSU Campus Recreation
-- 🤝 Secretary, Bangladesh Student Association at FSU
-- 🌱 Currently building AI-powered web applications with React, Flask, and the Gemini API
+**Core Expertise:**
+
+* **Full-Stack Development** — React/TypeScript frontends with Flask/Python backends and AI API integration.
+* **Numerical Computing & Reproducibility** — porting algorithms across C++ and Julia while preserving bit-identical behavior.
+* **Research & Analysis** — floating-point precision, RNG behavior, and Monte Carlo methods.
+* **Teaching & Mentorship** — guiding students through Discrete Math and Intro to Programming as a Learning Assistant.
+
+**Domains Explored:**
+
+* AI-Powered Web Applications
+* Scientific Computing / Numerical Methods
+* Game Development
+
+**Select Projects:**
+
+* **Grocera** – AI-powered meal planning app generating personalized recipes and grocery lists (React, Flask, Gemini API).
+* **Reproducible Walk on Spheres in Julia** – Research project achieving bit-identical Monte Carlo output across C++ and Julia.
+* **Beaver Bash** – Whac-A-Mole style browser game inspired by Chrome's Dino Game (React).
+
+**Principle:** Question the assumption, trace the divergence, and prove correctness with bit-identical results — not approximations.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧩 Note on Background
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,julia,python,java,js,ts,html,css,react,flask,git,github,postgres" />
-</p>
+I'm a sophomore balancing coursework, research, and side projects — so my public repos reflect a mix of learning, experimentation, and applied builds rather than a single specialization.
+
+My current focus areas:
+
+* **JavaScript / TypeScript** — React, Flask-based full-stack apps
+* **Python** — AI integration, scripting, data work
+* **Julia & C++** — numerical methods, reproducibility research
+
+I also have working knowledge of **C, Java, and PostgreSQL**, which I use to deepen my understanding of language internals and data persistence as I build toward more systems-level expertise.
 
 ---
 
-### 🚀 Featured Projects
+### ⚙️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🥦 Grocera</h3>
-      <p>AI-powered meal planning app that generates personalized recipes and grocery lists using the Gemini API. Built with React, Flask, and deployed on Vercel/Render.</p>
-      <p>
-        <a href="https://github.com/mRubayet12/grocera"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🦫 Beaver Bash</h3>
-      <p>A Whac-A-Mole style game inspired by Chrome's Dino Game, built with React and responsive gameplay logic using hooks and keyboard events.</p>
-      <p>
-        <a href="https://github.com/mRubayet12/Beaver-Bash"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
-      <h3>🔁 Reproducibility Study of Walk on Spheres (WoS) in Julia</h3>
-      <p>Research project investigating whether a Monte Carlo algorithm can produce bit-identical results across C++ and Julia. Traced floating-point divergence to differences in <code>length()</code> implementations and found that <code>sqrt(muladd(re, re, im * im))</code> is the only pure-Julia formulation matching C++ output exactly.</p>
-      <p>
-        <a href="https://github.com/mRubayet12/Reproducible-Walk-on-Spheres-in-Julia"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+**🧠 Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,julia,python,java,js,ts" />
+
+**🌐 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+**🛠️ Backend & Fullstack**
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs" />
+
+**📦 Databases & APIs**
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+**🧪 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 ---
 
