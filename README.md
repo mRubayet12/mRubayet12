@@ -34,15 +34,12 @@ I build full-stack applications and explore systems-level computing, with a rese
 
 * AI-Powered Web Applications
 * Scientific Computing / Numerical Methods
-* Game Development
 
 **Select Projects:**
 
 * **Grocera** – AI-powered meal planning app generating personalized recipes and grocery lists (React, Flask, Gemini API).
 * **Reproducible Walk on Spheres in Julia** – Research project achieving bit-identical Monte Carlo output across C++ and Julia.
 * **Beaver Bash** – Whac-A-Mole style browser game inspired by Chrome's Dino Game (React).
-
-**Principle:** Question the assumption, trace the divergence, and prove correctness with bit-identical results — not approximations.
 
 ---
 
@@ -72,7 +69,7 @@ I also have working knowledge of **C, Java, and PostgreSQL**, which I use to dee
 
 **🛠️ Backend & Fullstack**
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=flask" />
 
 **📦 Databases & APIs**
 
@@ -85,11 +82,6 @@ I also have working knowledge of **C, Java, and PostgreSQL**, which I use to dee
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mRubayet12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mRubayet12&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mRubayet12&layout=compact&theme=tokyonight&hide_border=true" />
