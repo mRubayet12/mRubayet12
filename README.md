@@ -21,7 +21,7 @@
 
 ---
 
-I build full-stack applications and explore systems-level computing, with a research focus on numerical reproducibility in stochastic simulations. My work spans AI-integrated web apps, algorithm porting across languages, and getting floating-point arithmetic to behave the same way twice.
+I build full-stack applications, with a research focus on numerical reproducibility in stochastic simulations. My work spans AI-integrated web apps, full-stack development, and reproducibility research.
 
 **Core Expertise:**
 
@@ -52,8 +52,6 @@ My current focus areas:
 * **JavaScript / TypeScript** — React, Flask-based full-stack apps
 * **Python** — AI integration, scripting, data work
 * **Julia & C++** — numerical methods, reproducibility research
-
-I also have working knowledge of **C, Java, and PostgreSQL**, which I use to deepen my understanding of language internals and data persistence as I build toward more systems-level expertise.
 
 ---
 
